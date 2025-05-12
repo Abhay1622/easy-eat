@@ -3,18 +3,19 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Akshay Saini",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "test": "jest",
-    "watch-test": "jest --watch",
-    "type": "module"
-  },
+  "start": "parcel index.html",
+  "dev": "npm run start",
+  "build": "parcel build index.html",
+  "test": "jest",
+  "watch-test": "jest --watch",
+  "type": "module"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/namastedev/namaste-react.git"
   },
   "keywords": [],
-  "author": "Akshay Saini",
+  "author": "Abhay Kaushal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/namastedev/namaste-react/issues"
