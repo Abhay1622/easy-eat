@@ -14,15 +14,15 @@ export const shimmer_card_unit = 20;
 
 export const shimmer_menu_card_unit = 4;
 
-export const Github_UserName = "Shivamch02";
-export const Github_Repository_Name = "Namaste-React";
+export const Github_UserName = "Abhay1622";
+export const Github_Repository_Name = "easy-eat";
 
 export const Github_API_User = "https://api.github.com/users/";
 
-export const Linkedin_Link = "https://www.linkedin.com/in/shivam-chaurasiyaa";
-export const Twitter_Link = "https://twitter.com/_cvam ";
-export const Github_Link = "https://github.com/Shivamch02";
-export const Email_Link = "mailto:chshivam53@gmail.com";
+export const Linkedin_Link = "https://www.linkedin.com/in/abhay-kaushal-0a653525a/";
+export const Twitter_Link = "https://x.com/Abhay_kaushal_1";
+export const Github_Link = "https://github.com/Abhay1622";
+export const Email_Link = "mailto:abhaykaushal920@gmail.com";
 
 export const options = {
   method: "GET",
